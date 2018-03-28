@@ -11,27 +11,66 @@
     <body>
         <header>
             <div class="container">
-                <nav class="navbar navbar-toggleable-md navbar-light bg-light">
-                    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbar1" aria-controls="navbar1" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
+                <nav class="navbar navbar-inverse navbar-overlay navbar-expand-lg navbar-light sticky-top">
+                    <a class="navbar-brand" href="#">Urbana</a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
                     </button>
-                    <a class="navbar-brand" href="#">URBANA</a>
-                    <div class="collapse navbar-collapse" id="navbar1">
-                        <div class="navbar-nav">
-                            <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
-                            <a class="nav-item nav-link" href="#">About</a>
-                            <a class="nav-item nav-link" href="#">Team</a>
-                            <a class="nav-item nav-link disabled" href="#">Portafolio</a>
-                        </div>
+                    <div class="collapse navbar-collapse" id="navbarNav">
+                        <ul class="navbar-nav ml-auto">
+                          <li class="nav-item">
+                            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                          </li>
+                          <li class="nav-item">
+                            <a class="nav-link" href="#">About</a>
+                          </li>
+                          <li class="nav-item">
+                            <a class="nav-link" href="#">Demo Reel</a>
+                          </li>
+                          <li class="nav-item">
+                            <a class="nav-link" href="#">Team</a>
+                          </li>
+                          <li class="nav-item">
+                            <a class="nav-link" href="#">Portafolio</a>
+                          </li>
+                          <li class="nav-item">
+                            <a class="nav-link" href="#">Testimonios</a>
+                          </li>
+                          <li class="nav-item">
+                            <a class="nav-link" href="#">Contacto</a>
+                          </li>
+                        </ul>
                     </div>
                 </nav>
             </div>
         </header>
-
-        <div>hola</div>
-        <div>hola</div>
-        <div>hola</div>
-        <div>hola</div>
+    </div>
+    <div id="carousel1" class="carousel slide" data-ride="carousel">
+      <ol class="carousel-indicators">
+        <li data-target="#carousel1" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel1" data-slide-to="1"></li>
+        <li data-target="#carousel1" data-slide-to="2"></li>
+      </ol>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img class="d-block w-100" src="paisaje1.jpg" alt="First slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="paisaje2.jpg" alt="Second slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="paisaje3.jpg" alt="Third slide">
+        </div>
+      </div>
+      <a class="carousel-control-prev" href="#carousel1" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#carousel1" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
 
 
         <script type="text/javascript" src="Js/bootstrap.min.js"></script>
