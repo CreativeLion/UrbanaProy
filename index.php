@@ -12,7 +12,9 @@
         <label>Hello World Jesus editado desde la rama jacg</label>
         <button class="btn btn-primary">Test button</button>
 
-        
+        <button>ok</button>
+        <button>ok</button>
+        <button>no</button>
 
 
         <script type="text/javascript" src="Js/bootstrap.min.js"></script>
