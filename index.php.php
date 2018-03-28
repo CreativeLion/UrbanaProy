@@ -9,6 +9,7 @@
         <title>Urbana</title>
     </head>
     <body>
+<<<<<<< HEAD:index.php.php
         <div class="container">
     <header>
         <nav class="navbar navbar-toggleable-md navbar-light bg-faded">
@@ -27,6 +28,23 @@
         </nav>
     </header>
         </div>
+=======
+        <label>Hello World Jesus editado desde la rama jacg</label>
+        <button class="btn btn-primary">Test button</button>
+
+        
+        <button>ok</button>
+        <button>no</button>
+
+        <label for="">a</label>
+        <label for="">a</label>
+        <label for="">a</label>
+
+        <div>hola</div>
+        <div>hola</div>
+        <div>hola</div>
+        <div>hola</div>
+>>>>>>> master:index.php
 
 
         <script type="text/javascript" src="Js/bootstrap.min.js"></script>
