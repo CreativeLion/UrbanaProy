@@ -12,16 +12,14 @@
         <label>Hello World Jesus editado desde la rama jacg</label>
         <button class="btn btn-primary">Test button</button>
 
-        <button>ok</button>
+        
         <button>ok</button>
         <button>no</button>
 
         <label for="">a</label>
         <label for="">a</label>
         <label for="">a</label>
-        <label for="">a</label><label for="">a</label>
-        <label for="">a</label>
-        
+
         <div>hola</div>
         <div>hola</div>
         <div>hola</div>
