@@ -1,0 +1,8 @@
+.navbar-overlay{
+    margin-bottom: -104px;
+    z-index:1;
+}
+a{
+    font-weight: bold;
+  color: white;
+}
