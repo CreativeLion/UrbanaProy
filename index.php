@@ -12,15 +12,6 @@
         <label>Hello World Jesus editado desde la rama jacg</label>
         <button class="btn btn-primary">Test button</button>
 
-        <div class="row">
-            <button type="button" name="button" class=""></button>
-            <button class="" name="button"></button>
-            <a href="#" class=""></a>
-        </div>
-
-        </div>
-
-        </div>
 
 
         <script type="text/javascript" src="Js/bootstrap.min.js"></script>
