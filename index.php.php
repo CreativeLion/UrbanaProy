@@ -9,42 +9,29 @@
         <title>Urbana</title>
     </head>
     <body>
-<<<<<<< HEAD:index.php.php
-        <div class="container">
-    <header>
-        <nav class="navbar navbar-toggleable-md navbar-light bg-faded">
-  <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbar1" aria-controls="navbar1" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <a class="navbar-brand" href="#">URBANA</a>
-    <div class="collapse navbar-collapse" id="navbar1">
-    <div class="navbar-nav">
-      <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
-      <a class="nav-item nav-link" href="#">About</a>
-      <a class="nav-item nav-link" href="#">Team</a>
-      <a class="nav-item nav-link disabled" href="#">Portafolio</a>
-    </div>
-    </div>
-        </nav>
-    </header>
-        </div>
-=======
-        <label>Hello World Jesus editado desde la rama jacg</label>
-        <button class="btn btn-primary">Test button</button>
-
-        
-        <button>ok</button>
-        <button>no</button>
-
-        <label for="">a</label>
-        <label for="">a</label>
-        <label for="">a</label>
+        <header>
+            <div class="container">
+                <nav class="navbar navbar-toggleable-md navbar-light bg-light">
+                    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbar1" aria-controls="navbar1" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <a class="navbar-brand" href="#">URBANA</a>
+                    <div class="collapse navbar-collapse" id="navbar1">
+                        <div class="navbar-nav">
+                            <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+                            <a class="nav-item nav-link" href="#">About</a>
+                            <a class="nav-item nav-link" href="#">Team</a>
+                            <a class="nav-item nav-link disabled" href="#">Portafolio</a>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </header>
 
         <div>hola</div>
         <div>hola</div>
         <div>hola</div>
         <div>hola</div>
->>>>>>> master:index.php
 
 
         <script type="text/javascript" src="Js/bootstrap.min.js"></script>
