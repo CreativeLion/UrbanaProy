@@ -16,9 +16,12 @@
         <button>ok</button>
         <button>no</button>
 
-        <label for="">a</label
         <label for="">a</label>
-
+        <label for="">a</label>
+        <label for="">a</label>
+        <label for="">a</label><label for="">a</label>
+        <label for="">a</label>
+        
         <div>hola</div>
         <div>hola</div>
         <div>hola</div>
