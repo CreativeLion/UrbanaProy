@@ -16,7 +16,6 @@
         <button>ok</button>
         <button>no</button>
 
-        <label for="">aa</label>
         <label for=""></label>
         <label for=""></label>
         <label for=""></label>
