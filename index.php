@@ -16,6 +16,12 @@
         <button>ok</button>
         <button>no</button>
 
+        <label for="">aa</label>
+        <label for=""></label>
+        <label for=""></label>
+        <label for=""></label>
+        <label for=""></label>
+
 
         <script type="text/javascript" src="Js/bootstrap.min.js"></script>
         <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
