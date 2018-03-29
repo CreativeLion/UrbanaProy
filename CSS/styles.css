@@ -1,5 +1,5 @@
 .container .navbar{
-    position:absolute;
+    width: 100wh;
 }
 
 .navbar .navbar-brand{
@@ -10,3 +10,34 @@
 .navbar-nav .nav-item .nav-link{
     font-weight:bold;
     color:white;
+}
+nav {
+    height: 9.1vh;
+}
+
+#carousel1 {
+    width: 100wh;
+    height: 100vh;
+}
+.carouselitem1 {
+    width: 100Wh;
+    height: 100vh;
+    background-image: url(../Images/paisaje1.jpg);
+    background-size: cover;
+}
+.carouselitem2 {
+    width: 100wh;
+    height: 100vh;
+    background-image: url(../Images/paisaje2.jpg);
+    background-size: cover;
+}
+.carouselitem3 {
+    width: 100wh;
+    height: 100vh;
+    background-image: url(../Images/paisaje3.jpg);
+    background-size: cover;
+}
+
+.navbar-overlay {
+    margin-bottom: -9.1vh;
+}
