@@ -1,8 +1,12 @@
-.navbar-overlay{
-    margin-bottom: -104px;
-    z-index:1;
+.container .navbar{
+    position:absolute;
 }
-a{
+
+.navbar .navbar-brand{
     font-weight: bold;
-  color: white;
+    color:white;
 }
+
+.navbar-nav .nav-item .nav-link{
+    font-weight:bold;
+    color:white;
