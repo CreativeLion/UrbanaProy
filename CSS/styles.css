@@ -1,18 +1,22 @@
-.container .navbar{
+nav {
+    height: 12vh;
+}
+nav a img {
+    height: 12vh;
+}
+.navbar{
     width: 100wh;
 }
-
 .navbar .navbar-brand{
     font-weight: bold;
     color:white;
 }
-
 .navbar-nav .nav-item .nav-link{
     font-weight:bold;
     color:white;
 }
-nav {
-    height: 9.1vh;
+.navbar-overlay {
+    margin-bottom: -12vh;
 }
 
 #carousel1 {
@@ -20,9 +24,9 @@ nav {
     height: 100vh;
 }
 .carouselitem1 {
-    width: 100Wh;
+    width: 100wh;
     height: 100vh;
-    background-image: url(../Images/paisaje1.jpg);
+    background-image: url(../Images/background-1.png);
     background-size: cover;
 }
 .carouselitem2 {
@@ -36,8 +40,4 @@ nav {
     height: 100vh;
     background-image: url(../Images/paisaje3.jpg);
     background-size: cover;
-}
-
-.navbar-overlay {
-    margin-bottom: -9.1vh;
 }
