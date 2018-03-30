@@ -1,3 +1,37 @@
+nav {
+    height: 12vh;
+}
+nav a img {
+    height: 12vh;
+}
+.navbar{
+    width: 100wh;
+}
+.navbar .navbar-brand{
+   font-weight: bold;
+   color:white;
+}
+.navbar-nav .nav-item .nav-link{
+   font-weight:bold;
+   color:white;
+}
+.navbar-overlay {
+    margin-bottom: -12vh;
+}
+#carousel1 {
+    height: 100vh;
+}
+.carouselitem1 {
+    width: 100wh;
+    height: 100vh;
+    background-image: url(../Images/background-1.png);
+    background-size: cover;
+}
+.carouselitem2 {
+    background-image: url(../Images/paisaje3.jpg);
+    background-size: cover;
+  }
+
 @media only screen and (max-width:768px){
     .navbar-collapse{
         background-color:rgba(0,0,0,0.6);
