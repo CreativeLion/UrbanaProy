@@ -60,7 +60,7 @@
                             Amamos lo que hacemos, amamos las nuevas experiencias y los nuevos retos.
                             Creamos experiencias, y a partir de ellas, somos Urbana.
                         </p>
-                        <button id="custom-btn-about" type="button" name="button">LEARN MORE</button>
+                        <button id="custom-btn-about" name="button">LEARN MORE</button>
                     </div>
                 </div>
         </section>

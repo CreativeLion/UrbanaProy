@@ -1,6 +1,9 @@
 /* navbar styles */
 nav {
-    height: 9.1vh;
+    height: 12vh;
+}
+nav a img {
+    height: 12vh;
 }
 .container .navbar{
     width: 100wh;
@@ -14,7 +17,7 @@ nav {
     color:white;
 }
 .navbar-overlay {
-    margin-bottom: -9.1vh;
+    margin-bottom: -12vh;
 }
 @media only screen and (max-width:768px){
     .navbar-collapse{
@@ -30,7 +33,7 @@ nav {
 .carouselitem1 {
     width: 100Wh;
     height: 100vh;
-    background-image: url(../Images/paisaje1.jpg);
+    background-image: url(../Images/background-1.png);
     background-size: cover;
 }
 .carouselitem2 {
