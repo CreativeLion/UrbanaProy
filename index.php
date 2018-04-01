@@ -13,39 +13,37 @@
 
         <header>
 
-            <?php include 'Extends/menu.php'
-		    ?>
+            <?php include 'Extends/menu.php' ?>
 
+            <!-- carousel elements -->
             <div id="carousel1" class="carousel slide mt-0" data-ride="carousel">
 
-              <div class="carousel-inner">
-                <div class="carousel-item active carouselitem1">
-                  <!-- <img class="d-block w-100 img-fluid" src="Images/paisaje1.jpg" alt="First slide"> -->
+                <div class="carousel-inner">
+                    <div class="carousel-item active carouselitem1"></div>
+                    <div class="carousel-item carouselitem2"></div>
+                    <div class="carousel-item carouselitem3"></div>
                 </div>
-                <div class="carousel-item carouselitem2">
-                  <!-- <img class="d-block w-100 img-fluid" src="Images/paisaje2.jpg" alt="Second slide"> -->
-                </div>
-                <div class="carousel-item carouselitem3">
-                  <!-- <img class="d-block w-100 img-fluid" src="Images/paisaje3.jpg" alt="Third slide"> -->
-                </div>
-              </div>
-              <a class="carousel-control-prev" href="#carousel1" role="button" data-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-              </a>
-              <a class="carousel-control-next" href="#carousel1" role="button" data-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-              </a>
-              <ol class="carousel-indicators">
-                <li data-target="#carousel1" data-slide-to="0" class="active"></li>
-                <li data-target="#carousel1" data-slide-to="1"></li>
-                <li data-target="#carousel1" data-slide-to="2"></li>
-              </ol>
+
+                <a class="carousel-control-prev" href="#carousel1" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+
+                <a class="carousel-control-next" href="#carousel1" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+
+                <ol class="carousel-indicators">
+                    <li data-target="#carousel1" data-slide-to="0" class="active"></li>
+                    <li data-target="#carousel1" data-slide-to="1"></li>
+                    <li data-target="#carousel1" data-slide-to="2"></li>
+                </ol>
             </div>
 
         </header>
-        <!--section about-->
+
+        <!--about section-->
         <section id="about">
             <div class="container">
                 <div class="row">
@@ -54,11 +52,15 @@
                     <div class="col-md-1"></div>
                     <div class="col-md-7">
                         <h3 class="mt-4">ABOUT</h3>
-                        <p class="mt-2 text-justify">Nosotros somos los expertos, los crativos, los que incursionamos para llevar
-                        nuevas sensaciones y experincias</p>
-                        <p>Amamos lo que hacemos, amamos las nuevas experiencias y los nuevos retos.
-                            Creamos experiencias, y a partir de ellas, somos Urbana.</p>
-                         <button class="btn" type="button" name="button">LEARN MORE</button> 
+                        <p class="mt-2 text-justify">
+                            Nosotros somos los expertos, los crativos, los que incursionamos para llevar
+                            nuevas sensaciones y experincias
+                        </p>
+                        <p>
+                            Amamos lo que hacemos, amamos las nuevas experiencias y los nuevos retos.
+                            Creamos experiencias, y a partir de ellas, somos Urbana.
+                        </p>
+                        <button id="custom-btn-about" type="button" name="button">LEARN MORE</button>
                     </div>
                 </div>
         </section>

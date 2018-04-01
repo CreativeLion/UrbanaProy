@@ -1,20 +1,28 @@
+/* navbar styles */
+nav {
+    height: 9.1vh;
+}
 .container .navbar{
     width: 100wh;
 }
-
 .navbar .navbar-brand{
     font-weight: bold;
     color:white;
 }
-
 .navbar-nav .nav-item .nav-link{
     font-weight:bold;
     color:white;
 }
-nav {
-    height: 9.1vh;
+.navbar-overlay {
+    margin-bottom: -9.1vh;
+}
+@media only screen and (max-width:768px){
+    .navbar-collapse{
+        background-color:rgba(0,0,0,0.6);
+    }
 }
 
+/* carousel styles */
 #carousel1 {
     width: 100wh;
     height: 100vh;
@@ -38,15 +46,6 @@ nav {
     background-size: cover;
 }
 
-.navbar-overlay {
-    margin-bottom: -9.1vh;
-}
-
-@media only screen and (max-width:768px){
-    .navbar-collapse{
-        background-color:rgba(0,0,0,0.6);
-    }
-}
  #about{
     margin-top: 30px;
     margin-bottom: 30px;
@@ -56,7 +55,7 @@ nav {
   height: 200px;
   padding: 0;
 }
-.btn{
+#custom-btn-about{
     text-decoration: none;
     padding: 10px;
     font-weight: 100;
