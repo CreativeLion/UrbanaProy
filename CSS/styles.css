@@ -1,6 +1,8 @@
 /* navbar styles */
 nav {
-    height: 12vh;
+    height: 14vh;
+    margin-bottom: -14vh;
+    width: 100wh;
 }
 nav a img {
     height: 12vh;
@@ -16,12 +18,18 @@ nav a img {
     font-weight:bold;
     color:white;
 }
-.navbar-overlay {
-    margin-bottom: -12vh;
+.bg-color{
+    background-color: #454342;
+}
+.bg-change{
+	transition: all 1s ease;
 }
 @media only screen and (max-width:768px){
     .navbar-collapse{
         background-color:rgba(0,0,0,0.6);
+    }
+    nav a img {
+        height: 8vh;
     }
 }
 
@@ -48,17 +56,12 @@ nav a img {
     background-image: url(../Images/paisaje3.jpg);
     background-size: cover;
 }
-
- #about{
-    margin-top: 30px;
-    margin-bottom: 30px;
-}
- #img1{
+ /* #img1{
   width: 220px;
   height: 200px;
   padding: 0;
-}
-#custom-btn-about{
+} */
+/* #custom-btn-about{
     text-decoration: none;
     padding: 10px;
     font-weight: 100;
@@ -69,4 +72,4 @@ nav a img {
     border: 1px solid #00E9BF;
     width:100px;
     height:40px;
-  }
+  } */

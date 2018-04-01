@@ -1,4 +1,4 @@
-<nav class="container navbar navbar-overlay navbar-toggeable navbar-expand-lg navbar-dark sticky-top">
+<nav class="pl-md-5 pr-md-5 pl-sm-2 pr-sm-2 navbar navbar-toggeable navbar-expand-md navbar-dark sticky-top bg-change">
 
     <a href="index.php" class="navbar-brand ml-lg-5">
         <img src="Images/Logo.png" alt="Logotipo Urbana">
