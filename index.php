@@ -75,22 +75,19 @@
         </section>
         <section id="section3">
             <div class="container">
-                <form class="" action="index.html" method="post">
+                <form class="pb-5" action="index.html" method="post">
                     <div class="row pt-5 pb-5">
                         <div class="offset-lg-1 col-lg-4">
                             <h5 class="mt-4 font-weight-bold text-white">CONTACTANOS</h5>
-                            <div class="form-group">
-                                <input class="form-control mt-4 general-input" id="nombre" type="text" placeholder="Name">
-                            </div>
-                            <div class="form-group">
-                                <input class="form-control general-input" id="email" type="text" placeholder="Email">
-                            </div>
-                            <div class="form-group">
-                                <input class="form-control general-input" id="subject" type="text" placeholder="Subject">
-                            </div>
-                            <div class="form-group">
-                                <textarea class="form-control general-input" id="massage" name="name" rows="8" cols="80" placeholder="Your Massage"></textarea>
-                            </div>
+
+                            <input class="form-control mt-4 general-input mb-3" id="nombre" type="text" placeholder="Name">
+
+                            <input class="form-control general-input mb-3" id="email" type="text" placeholder="Email">
+
+                            <input class="form-control general-input mb-3" id="subject" type="text" placeholder="Subject">
+
+                            <textarea class="form-control general-input mb-3" id="massage" name="name" rows="8" cols="80" placeholder="Your Massage"></textarea>
+
                             <button class="btn btn-md btn-outline-success px-4">SUBMIT</button>
                         </div>
                         <div class="offset-1 col-lg-6">
