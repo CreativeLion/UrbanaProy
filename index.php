@@ -43,7 +43,7 @@
         </header>
 
         <!--about section-->
-        <section>
+        <section id="About">
             <div class="container">
                 <div class="row pt-5 pb-5">
                     <div class="offset-lg-1 col-sm-12 col-lg-3 col-md-4 pt-lg-3 pt-md-5 d-flex justify-content-center">
@@ -63,7 +63,7 @@
                     </div>
                 </div>
         </section>
-        <section id="section2">
+        <section id="Commits">
             <div class="container">
                 <div class="row pt-5 pb-5 d-flex justify-content-center text-white">
                     <h3 class="display-4 font-weight-bold">"</h3>
@@ -74,7 +74,7 @@
             </div>
         </section>
 
-        <section id="section3">
+        <section id="Contact">
             <div class="container">
                 <form class="pb-5" action="index.html" method="post">
                     <div class="row pt-5 pb-5">
