@@ -4,6 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="stylesheet" href="css/font-awesome.min.css">
         <link rel="stylesheet" type="text/css"href="CSS/bootstrap.css">
         <link rel="stylesheet" type="text/css" href="CSS/styles.css">
         <title>Urbana</title>
@@ -100,13 +101,7 @@
             </div>
         </section>
 
-        <label class="display-4">Hola</label><br>
-        <label class="display-4">Hola</label><br>
-        <label class="display-4">Hola</label><br>
-        <label class="display-4">Hola</label><br>
-        <label class="display-4">Hola</label><br>
-        <label class="display-4">Hola</label><br>
-        <label class="display-4">Hola</label><br>
+        <?php include 'Extends/footer.php' ?>
 
 
 
