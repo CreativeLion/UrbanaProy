@@ -63,6 +63,44 @@
                     </div>
                 </div>
         </section>
+        <section id="section2">
+            <div class="container">
+                <div class="row pt-5 pb-5 d-flex justify-content-center text-white">
+                    <h3 class="display-4 font-weight-bold">"</h3>
+
+                    <p class="text-center text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    <p class="mt-4">JANE GALANDRIEL</p>
+                </div>
+            </div>
+        </section>
+        <section id="section3">
+            <div class="container">
+                <form class="" action="index.html" method="post">
+                    <div class="row pt-5 pb-5">
+                        <div class="offset-lg-1 col-lg-4">
+                            <h5 class="mt-4 font-weight-bold text-white">CONTACTANOS</h5>
+                            <div class="form-group">
+                                <input class="form-control mt-4 general-input" id="nombre" type="text" placeholder="Name">
+                            </div>
+                            <div class="form-group">
+                                <input class="form-control general-input" id="email" type="text" placeholder="Email">
+                            </div>
+                            <div class="form-group">
+                                <input class="form-control general-input" id="subject" type="text" placeholder="Subject">
+                            </div>
+                            <div class="form-group">
+                                <textarea class="form-control general-input" id="massage" name="name" rows="8" cols="80" placeholder="Your Massage"></textarea>
+                            </div>
+                            <button class="btn btn-md btn-outline-success px-4">SUBMIT</button>
+                        </div>
+                        <div class="offset-1 col-lg-6">
+                            <h5 class="mt-4 text-center font-weight-bold text-white">TRABAJAMOS CON LOS MEJORES</h5>
+                            <img class="img-fluid mt-5" src="Images/clientes-logos.png" alt="Clientes">
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </section>
 
         <label class="display-4">Hola</label><br>
         <label class="display-4">Hola</label><br>
