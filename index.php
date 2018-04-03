@@ -45,7 +45,7 @@
 
         <!--about section-->
         <section id="About">
-            <div class="container">
+            <div class="container pb-3">
                 <div class="row pt-5 pb-5">
                     <div class="offset-lg-1 col-sm-12 col-lg-3 col-md-4 pt-lg-3 pt-md-5 d-flex justify-content-center">
                         <img src="Images/urbana-image1.png" alt="Icono Urbana">
@@ -64,6 +64,55 @@
                     </div>
                 </div>
         </section>
+
+        <section id="Team">
+            <div class="container-fluid pt-5 pb-5">
+                <div class="row pt-5">
+                    <!-- <div class="col-md-12"> -->
+                        <label class="mytitle col-12 mb-5 text-white font-weight-bold text-center">NUESTRO EQUIPO</label>
+                    <!-- </div> -->
+                </div>
+
+                <div class="row pb-3 pt-2">
+                    <div class="mb-5 offset-lg-2 col-lg-2 col-md-6 d-flex justify-content-center">
+                        <img src="Images/team-1-image.png" alt="">
+                    </div>
+                    <div class="mb-5 col-lg-2 col-md-6 d-flex justify-content-center">
+                        <img src="Images/team-1-image.png" alt="">
+                    </div>
+                    <div class="mb-5 col-lg-2 col-md-6 d-flex justify-content-center">
+                        <img src="Images/team-1-image.png" alt="">
+                    </div>
+                    <div class="mb-5 col-lg-2 col-md-6 d-flex justify-content-center">
+                        <img src="Images/team-1-image.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="Portafolio">
+            <div class="container-fluid pb-5 pt-5">
+                <div class="row pt-5 pb-5">
+                    <div class="col-md-4">
+                        <img class="img-fluid" src="Images/creativo-image.png" alt="">
+                    </div>
+                    <div class="col-md-4">
+                        <img class="img-fluid" src="Images/print-image.png" alt="">
+                    </div>
+                    <div class="col-md-4">
+                        <img class="img-fluid" src="Images/experencial-image.png" alt="">
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <img class="img-fluid" src="Images/creative-experience-image.png" alt="">
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
         <section id="Commits">
             <div class="container">
                 <div class="row pt-5 pb-5 d-flex justify-content-center text-white">
@@ -90,7 +139,7 @@
 
                             <textarea class="form-control general-input mb-3" id="massage" name="name" rows="8" cols="80" placeholder="Your Massage"></textarea>
 
-                            <button class="btn btn-md btn-outline-success px-4">SUBMIT</button>
+                            <button class="btn btn-md btn-outline-success px-4 mb-4 mb-sm-5">SUBMIT</button>
                         </div>
                         <div class="offset-1 col-lg-6">
                             <h5 class="mt-4 text-center font-weight-bold text-white">TRABAJAMOS CON LOS MEJORES</h5>

@@ -20,10 +20,10 @@
                 <a class="nav-link text-center" href="#">Demo Reel</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link text-center" href="#">Team</a>
+                <a class="nav-link text-center" href="#Team">Team</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link text-center" href="#">Portafolio</a>
+                <a class="nav-link text-center" href="#Portafolio">Portafolio</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link text-center" href="#Commits">Testimonios</a>
