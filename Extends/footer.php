@@ -2,7 +2,10 @@
     <div class="container text-center text-md-left">
         <div class="row text-center text-md-left mt-3 pb-3">
             <div class="offset-1 col-lg-3">
-                <img class="img-fluid" src="Images/Logo.png" alt="Logotipo Urbana">
+                <div class="ml-lg-5 mr-lg-5">
+                    <img class="img-fluid" src="Images/Logo.png" alt="Logotipo Urbana">
+                </div>
+
                 <p class="mt-4 text-white text-center">lorem quis bibendum auctor,nisi elit consequat ipsum, nec sagittis sem nibh elit. Duis sed odio sit amet auctror a ornare odio non mauris vitae erat in elit.</p>
                 <p class="mt-5 text-white text-center">HELP TERMS & CONDITION PRIVACY</p>
             </div>
