@@ -56,6 +56,20 @@ nav a img {
     background-image: url(../Images/paisaje3.jpg);
     background-size: cover;
 }
+ #section2{
+    background-color:#2A1733;
+}
+ #section3{
+    background-color:#079299;
+}
+
+.general-input{
+    background-color: transparent;
+    color:white;
+    border-width: 1px;
+    border-color: #00E9BF;
+}
+
  /* #img1{
   width: 220px;
   height: 200px;
