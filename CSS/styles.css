@@ -69,6 +69,13 @@ nav a img {
     border-width: 1px;
     border-color: #00E9BF;
 }
+#latest{
+    background-color:#2A1733;
+}
+#in{
+    background: inherit;
+    background-color:transparent;
+}
 
  /* #img1{
   width: 220px;
