@@ -62,7 +62,9 @@ nav a img {
  #Contact{
     background-color:#079299;
 }
-
+#Team{
+   background-color:#93c2cc;
+}
 .general-input{
     background-color: transparent;
     color:white;
@@ -75,6 +77,13 @@ nav a img {
 #in{
     background: inherit;
     background-color:transparent;
+}
+
+.text-fontsize{
+    font-size: 12px;
+}
+.mytitle{
+    font-size: 24px;
 }
 
  /* #img1{
