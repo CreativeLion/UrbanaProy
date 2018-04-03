@@ -11,10 +11,10 @@
     <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
         <ul class="navbar-nav ml-lg-auto mr-lg-5">
             <li class="nav-item">
-                <a class="nav-link text-center" href="#">Home <span class="sr-only">(current)</span></a>
+                <a class="nav-link text-center" href="index.php">Home <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link text-center" href="#">About</a>
+                <a class="nav-link text-center" href="#About">About</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link text-center" href="#">Demo Reel</a>
@@ -26,10 +26,10 @@
                 <a class="nav-link text-center" href="#">Portafolio</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link text-center" href="#">Testimonios</a>
+                <a class="nav-link text-center" href="#Commits">Testimonios</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link text-center" href="#">Contacto</a>
+                <a class="nav-link text-center" href="#Contact">Contacto</a>
             </li>
         </ul>
     </div>
